@@ -10,6 +10,8 @@
 <br><a href="codenameswrapper.html">Codenames</a>
 <br><a href="jigsawwrapper.html">Jigsaws</a>
 <br><a href="setwrapper.html">SET</a>
+<br><a href="cardswrapper.html">standard card deck</a>
+
 
 
 </p>
