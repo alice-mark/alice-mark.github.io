@@ -5,7 +5,11 @@
 </head>
 <body>
 
-<p style="font-size:1.2vw"> Hello World.  <a href="jigsawwrapper.html"> yo.</a>
+<p style="font-size:1.2vw"> Here are some wrappers for games in gather town:
+<br><a href="xwordwrapper.html"> Jigsaw</a>
+<br><a href="codenameswrapper.html"> Jigsaw</a>
+<br><a href="jigsawwrapper.html"> Jigsaw</a>
+<br><a href="setwrapper.html"> Jigsaw</a>
 
 
 </p>
