@@ -11,6 +11,7 @@
 <br><a href="jigsawwrapper.html">Jigsaws</a>
 <br><a href="setwrapper.html">SET</a>
 <br><a href="cardswrapper.html">standard card deck</a>
+<br><a href="anythingwrapper.html">wrapper for any embeddable link</a>
 
 
 
